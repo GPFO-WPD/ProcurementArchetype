@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "a6717e9a-edc3-4eaa-8ae7-055ea33057ee",
+        "name": "Create an authentic retro pixel-art",
+        "prompt": "Create an authentic retro pixel-art RPG sprite sheet of a chibi female adventurer archetype. Front-facing, classic 32\u00d732 RPG proportions, large head, tiny body, warm brown hair, oversized expressive eyes, teal explorer coat with gold trim, knitted beanie with pom-pom, red scarf, leather backpack, sturdy travel boots. Cute, intelligent, approachable, thoughtful expression. Holding a tiny notebook and pencil near her chin. Accessories include a miniature compass, clipboard, planning documents attached to backpack, tiny charts, arrows, checkmarks, and analytical symbols. Floating pixel-art network nodes connected by glowing lines, miniature chessboard floor tiles beneath character, orbiting puzzle pieces, graph icon morphing into a checkmark. Seamless 6-frame GIF animation with gentle idle bobbing, natural blinking, pencil tapping, slow puzzle-piece rotation, and subtle sparkle effects. TRUE PIXEL ART ONLY. Every detail built from pixel clusters. Limited retro palette, crisp pixel-perfect edges, detailed pixel shading, transparent background, RPG Maker / indie fantasy game asset quality, clean silhouette readable at small sizes, consistent pixel scale, cottagecore-meets-strategist aesthetic. Negative: blurry, 3D, realistic, anime, watercolor, painterly, vector, smooth gradients, anti-aliasing, soft brush strokes, modern UI, logos, cropped character, non-pixel-art effects, HD illustration style, cel-shading, glossy materials, realistic proportions, inconsistent pixel size, AI artifacts.",
+        "size": {
+          "width": 128,
+          "height": 128
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-06-11T09:43:18.146017+00:00"
+      },
+      "folder": "Create_an_authentic_retro_pixel-art",
+      "frames": {
+        "rotations": {
+          "south": "Create_an_authentic_retro_pixel-art/rotations/south.png",
+          "south-east": "Create_an_authentic_retro_pixel-art/rotations/south-east.png",
+          "east": "Create_an_authentic_retro_pixel-art/rotations/east.png",
+          "north-east": "Create_an_authentic_retro_pixel-art/rotations/north-east.png",
+          "north": "Create_an_authentic_retro_pixel-art/rotations/north.png",
+          "north-west": "Create_an_authentic_retro_pixel-art/rotations/north-west.png",
+          "west": "Create_an_authentic_retro_pixel-art/rotations/west.png",
+          "south-west": "Create_an_authentic_retro_pixel-art/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.0",
+  "export_date": "2026-06-11T09:53:57.909209"
+}

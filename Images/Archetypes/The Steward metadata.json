@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "ad9c3ef6-41dc-42d8-b395-aa14c7a7ff6d",
+        "name": "Create an authentic retro pixel-art",
+        "prompt": "Create an authentic retro pixel-art RPG sprite sheet of a chibi female adventurer archetype. Front-facing, classic 32\u00d732 RPG proportions, large head, tiny body, warm brown hair, oversized expressive eyes, elegant explorer coat with soft gold and blue accents, knitted beanie with pom-pom, warm scarf, leather backpack, sturdy travel boots. Cute, calm, approachable, trustworthy expression with a reassuring smile. Holding a transparent crystal ledger and a balanced scales emblem. Accessories include a small audit notebook attached at the waist, approval seals, accountability documents, integrity badges, fairness symbols, and transparency markers. Subtle glowing pathways form clear, orderly patterns around the character, symbolizing trust, accountability, and robust processes. Floating pixel-art seals of approval, miniature pathway tiles beneath the character, orbiting integrity emblems, and a validation icon transforming into a completed seal. Seamless 6-frame GIF animation with gentle idle bobbing, natural blinking, careful ledger-reviewing motions, seal-checking gestures, slow rotation of integrity symbols, and subtle sparkle effects along illuminated pathways. TRUE PIXEL ART ONLY. Every detail built from pixel clusters. Limited retro palette with warm gold and soft blue tones, crisp pixel-perfect edges, detailed pixel shading, transparent background, RPG Maker / indie fantasy game asset quality, clean silhouette readable at small sizes, consistent pixel scale, cottagecore-meets-integrity-steward aesthetic. Negative: blurry, 3D, realistic, anime, watercolor, painterly, vector, smooth gradients, anti-aliasing, soft brush strokes, modern UI, logos, cropped character, non-pixel-art effects, HD illustration style, cel-shading, glossy materials, realistic proportions, inconsistent pixel size, AI artifacts. 124 x 124 please.",
+        "size": {
+          "width": 128,
+          "height": 128
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-06-14T15:29:39.366675+00:00"
+      },
+      "folder": "Create_an_authentic_retro_pixel-art",
+      "frames": {
+        "rotations": {
+          "south": "Create_an_authentic_retro_pixel-art/rotations/south.png",
+          "south-east": "Create_an_authentic_retro_pixel-art/rotations/south-east.png",
+          "east": "Create_an_authentic_retro_pixel-art/rotations/east.png",
+          "north-east": "Create_an_authentic_retro_pixel-art/rotations/north-east.png",
+          "north": "Create_an_authentic_retro_pixel-art/rotations/north.png",
+          "north-west": "Create_an_authentic_retro_pixel-art/rotations/north-west.png",
+          "west": "Create_an_authentic_retro_pixel-art/rotations/west.png",
+          "south-west": "Create_an_authentic_retro_pixel-art/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.0",
+  "export_date": "2026-06-14T15:39:11.922313"
+}
